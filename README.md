@@ -1,11 +1,12 @@
 ## ICON FONT GRAVITECH
 
 ![image](https://tanawatgravitechdev.github.io/iconfont_gravitech/images/exemple.png)
-
+--------
 #### CDN ICON Font
 ```
 <link rel="stylesheet" href="https://tanawatgravitechdev.github.io/iconfont_gravitech/style.css">
 ```
+----
 ```
 <i class="icon-Gravitech-Bench-Seat"></i>
 ```
